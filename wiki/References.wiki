@@ -14,3 +14,4 @@ Using this page as an index for references and further reading.
 = Tools ==
 
   * [http://www.ardour.org/ Ardour]
+  * [http://www.sonicvisualiser.org/index.html Sonic Visualiser]
