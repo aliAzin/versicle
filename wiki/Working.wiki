@@ -14,7 +14,7 @@ There are numerous examples of taking WAV based music and converting to MIDI - t
   # The focus is on speech
   # Success is recognisable speech
 
-I am not trying to necessarily replicate quality or tone - I just want to make sure it is understandable.   
+I am not necessarily trying to replicate quality or tone - I just want to make sure it is understandable.   
 
 = Technical Approach =
 
