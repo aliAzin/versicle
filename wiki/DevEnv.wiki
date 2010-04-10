@@ -1,0 +1,21 @@
+#summary Describes the development enviroment
+
+= Introduction =
+
+This document describes the adopted development environment for contributors to this project. 
+
+
+= Details =
+
+== IDE ==
+
+  * Preferred is Eclipse - but up to you
+  * See [http://m2eclipse.sonatype.org/index.html Sonatype m2eclipse plugin]
+
+== SCM ==
+
+  * Subversion - see sources tab
+
+== Build ==
+
+  * Maven 2.2.1
