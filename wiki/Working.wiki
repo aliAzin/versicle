@@ -7,7 +7,7 @@ Attempts to describe the technical approach employed to make this thing actually
 
 = Goal =
 
-Yes this is hard, yes this will be difficult to get working - if possible at all - but I've been here before and got some promising results. 
+Yes this is hard, yes this will be difficult to get working (if possible at all) but I've been here before and had some promising results. 
 
 There are numerous examples of taking WAV based music and converting to MIDI - that's in the same ballpark as this work. However, the difference with this project is:
 
