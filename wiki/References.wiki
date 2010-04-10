@@ -5,8 +5,12 @@
 Using this page as an index for references and further reading. 
 
 
-= Details =
+= Further Reading =
 
   * [http://www.jsresources.org/index.html Java Sound Resource]
   * [http://www.dsptutor.freeuk.com/ FFT Spectrum Analyser Demo]
   * [http://stackoverflow.com/questions/2126193/wav-to-midi-conversion Wav to Midi discussion]
+
+= Tools ==
+
+  * [http://www.ardour.org/ Ardour]
