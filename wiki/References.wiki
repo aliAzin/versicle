@@ -16,3 +16,4 @@ Using this page as an index for references and further reading.
   * [http://audacity.sourceforge.net/ Audacity]
   * [http://www.ardour.org/ Ardour]
   * [http://www.sonicvisualiser.org/index.html Sonic Visualiser]
+  * [http://lmms.sourceforge.net/ LMMS]
