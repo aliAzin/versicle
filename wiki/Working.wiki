@@ -1,0 +1,24 @@
+#summary Thoughts, approach, and design on how this is going to work.
+
+= Introduction =
+
+Attempts to describe the technical approach employed to make this thing actually work. 
+
+
+= Goal =
+
+Yes this is hard, yes this will be difficult to get working - if possible at all - but I've been here before and got some promising results. 
+
+There are numerous examples of taking WAV based music and converting to MIDI - that's in the same ballpark as this work. However, the difference with this project is:
+
+  # The focus is on speech
+  # Success is recognisable speech
+
+I am not trying to necessarily replicate quality or tone - I just want to make sure it is understandable.   
+
+= Technical Approach =
+
+  # Record audio as waveform, e.g. PCM
+  # Convert to frequency map, think of spectrum analyser over time
+  # Convert frequency map into vector representation 
+  # Render vector representation, e.g. using MIDI
