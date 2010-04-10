@@ -1,4 +1,4 @@
-#summary Getting started on *_versicle_*.
+#summary Getting started on *versicle*.
 
 = Introduction =
 
