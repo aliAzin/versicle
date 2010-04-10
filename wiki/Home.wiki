@@ -6,6 +6,6 @@ Versicle is an attempt at converting wave-based speech into a vector representat
 
 = Index =
 
-* [Plan]
-* [Way of Working]
-* [Working]
+ * [Plan]
+ * [WoW Way of Working]
+ * [Working]
