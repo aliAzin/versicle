@@ -15,6 +15,7 @@ This document describes the adopted development environment for contributors to 
 == SCM ==
 
   * Subversion - see sources tab
+  * Linux nautilus integration: [http://rabbitvcs.org/ RabbitVCS]
 
 == Build ==
 
