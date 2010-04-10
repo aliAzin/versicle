@@ -1,0 +1,11 @@
+#summary The approaches and way of working adopted on this project.
+
+= Introduction =
+
+These pages describe the general approaches adopted by the project. It is intended that they will evolve and change over time with the maturity of the project. 
+
+
+= Details =
+
+  * [DevEnv Development Environment]
+  *  
