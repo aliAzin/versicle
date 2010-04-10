@@ -7,5 +7,6 @@ Using this page as an index for references and further reading.
 
 = Details =
 
+  * [http://www.jsresources.org/index.html Java Sound Resource]
   * [http://www.dsptutor.freeuk.com/ FFT Spectrum Analyser Demo]
   * [http://stackoverflow.com/questions/2126193/wav-to-midi-conversion Wav to Midi discussion]
