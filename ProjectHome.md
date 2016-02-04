@@ -1,0 +1,3 @@
+There a number of examples of attempts to convert wave-based audio into simplified vector-like representations, e.g. midi, however, this project is focused on converting and representing human speech, and is not interested in other sounds or noises. The hope is that it will be possible to derive an algorithm that is capable of representing speech patterns in a recognisable and practical sense.
+
+For more information visit the [wiki](Home.md).
